@@ -92,11 +92,9 @@ Senior Business Intelligence Analyst / Database Developer
 
 ## 📊 Dashboard & Reports Picture 
 
-<img width="1866" height="790" alt="Screenshot 2026-04-22 112156" src="https://github.com/user-attachments/assets/591a40ca-9d11-43ba-831a-f4309b30659b" /># 
 
 
-
-
+## Home Page Navigator
 
 <img width="1871" height="792" alt="Screenshot 2026-04-22 111146" src="https://github.com/user-attachments/assets/19a73b51-90bb-4664-be53-1523c4ca72df" />
 
@@ -106,6 +104,8 @@ Senior Business Intelligence Analyst / Database Developer
 
 
 
+
+## Overview Summary Report
 
 <img width="1856" height="786" alt="Screenshot 2026-04-22 112103" src="https://github.com/user-attachments/assets/df6d9981-2a57-4261-bc31-3835f767a720" />
 
