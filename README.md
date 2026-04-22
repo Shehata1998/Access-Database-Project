@@ -1,4 +1,4 @@
-<img width="1866" height="790" alt="Screenshot 2026-04-22 112156" src="https://github.com/user-attachments/assets/591a40ca-9d11-43ba-831a-f4309b30659b" /># Access Database Project – Dynamic Reports & Dashboard
+Access Database Project – Dynamic Reports & Dashboard
 
 ## 📌 Overview
 
@@ -92,17 +92,42 @@ Senior Business Intelligence Analyst / Database Developer
 
 ## 📊 Dashboard & Reports Picture 
 
+<img width="1866" height="790" alt="Screenshot 2026-04-22 112156" src="https://github.com/user-attachments/assets/591a40ca-9d11-43ba-831a-f4309b30659b" /># 
+
+
+
+
 <img width="1871" height="792" alt="Screenshot 2026-04-22 111146" src="https://github.com/user-attachments/assets/19a73b51-90bb-4664-be53-1523c4ca72df" />
+
+
+
 
 <img width="1856" height="786" alt="Screenshot 2026-04-22 112103" src="https://github.com/user-attachments/assets/df6d9981-2a57-4261-bc31-3835f767a720" />
 
+
+
+
 <img width="1873" height="778" alt="Screenshot 2026-04-22 112123" src="https://github.com/user-attachments/assets/fcb00d01-4475-491a-887e-4a7743ff7085" />
+
+
+
 
 <img width="1867" height="783" alt="Screenshot 2026-04-22 112139" src="https://github.com/user-attachments/assets/55993e3c-5582-4c84-8b14-f5b66668d23f" />
 
+
+
+
 <img width="1866" height="790" alt="Screenshot 2026-04-22 112156" src="https://github.com/user-attachments/assets/3a161ef5-4830-486a-a6e2-75d5b0a61eb2" />
 
+
+
+
 <img width="1862" height="773" alt="Screenshot 2026-04-22 112210" src="https://github.com/user-attachments/assets/9cd11d6a-adb9-4f5c-9838-8a1d73b3bc9a" />
+
+
+
+
+
 
 
 
