@@ -114,7 +114,11 @@ Senior Business Intelligence Analyst / Database Developer
 
 
 
+
+
 <img width="1873" height="778" alt="Screenshot 2026-04-22 112123" src="https://github.com/user-attachments/assets/fcb00d01-4475-491a-887e-4a7743ff7085" />
+
+
 
 
 
@@ -128,12 +132,19 @@ Senior Business Intelligence Analyst / Database Developer
 
 
 
+
+
 <img width="1866" height="790" alt="Screenshot 2026-04-22 112156" src="https://github.com/user-attachments/assets/3a161ef5-4830-486a-a6e2-75d5b0a61eb2" />
 
 
 
 
 
+
+
+
+
+## Stock Report
 
 <img width="1862" height="773" alt="Screenshot 2026-04-22 112210" src="https://github.com/user-attachments/assets/9cd11d6a-adb9-4f5c-9838-8a1d73b3bc9a" />
 
