@@ -134,7 +134,11 @@ Senior Business Intelligence Analyst / Database Developer
 
 
 
+## Daily Sales Report
+
 <img width="1866" height="790" alt="Screenshot 2026-04-22 112156" src="https://github.com/user-attachments/assets/3a161ef5-4830-486a-a6e2-75d5b0a61eb2" />
+
+
 
 
 
